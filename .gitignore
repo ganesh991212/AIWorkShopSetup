@@ -49,6 +49,10 @@ htmlcov/
 *.log
 logs/
 
+# Generated reports
+*_validation_report.json
+environment_validation_report.json
+
 # IDE settings
 .vscode/settings.json
 .vscode/launch.json
